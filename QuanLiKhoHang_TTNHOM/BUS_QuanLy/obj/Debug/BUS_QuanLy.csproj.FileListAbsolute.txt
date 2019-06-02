@@ -1,0 +1,24 @@
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll.config
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll.config
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\respos\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb

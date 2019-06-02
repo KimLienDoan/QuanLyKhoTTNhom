@@ -1,0 +1,50 @@
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\GUI_QuanLi.exe.config
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\GUI_QuanLi.exe
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\GUI_QuanLi.pdb
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\BUS_QuanLy.dll
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DAL_QuanLy.dll
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DTO_QuanLy.dll
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\BUS_QuanLy.pdb
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csprojAssemblyReference.cache
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_DangNhap.resources
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HoaDonBan.resources
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HoaDonNhap.resources
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_NhanVien.resources
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_KhachHang.resources
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.Properties.Resources.resources
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csproj.GenerateResource.cache
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csproj.CoreCompileInputs.cache
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csproj.CopyComplete
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.exe
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.pdb
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_frmChinh.resources
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HangHoa.resources
+C:\Users\Doan Thi Kim Lien\source\repos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\BUS_QuanLy.dll.config
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\GUI_QuanLi.exe.config
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\GUI_QuanLi.exe
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\GUI_QuanLi.pdb
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\BUS_QuanLy.dll
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DAL_QuanLy.dll
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DTO_QuanLy.dll
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\BUS_QuanLy.pdb
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\BUS_QuanLy.dll.config
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DAL_QuanLy.pdb
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DTO_QuanLy.pdb
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csprojAssemblyReference.cache
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_DangNhap.resources
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_frmChinh.resources
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HangHoa.resources
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HoaDonBan.resources
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HoaDonNhap.resources
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_NhanVien.resources
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_KhachHang.resources
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.Properties.Resources.resources
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csproj.GenerateResource.cache
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csproj.CoreCompileInputs.cache
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csproj.CopyComplete
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.exe
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.pdb
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HDNtinhTien.resources
+D:\respos\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_ShowHDH.resources
