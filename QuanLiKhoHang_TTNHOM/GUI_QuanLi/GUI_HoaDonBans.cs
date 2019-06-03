@@ -85,7 +85,8 @@ namespace GUI_QuanLi
 
         private void bttThongTin_Click(object sender, EventArgs e)
         {
-           dtHDHang.DataSource=  hd.ThongTinXem();
+
+            dtgrHDH.DataSource = hd.ThongTinXem1HD(Int32.Parse(txtMaHD.Text.ToString()));
         }
 
         private void bttThem_Click(object sender, EventArgs e)
@@ -117,7 +118,7 @@ namespace GUI_QuanLi
             {
                 MessageBox.Show(ex.Message, "Lỗi");
             }
-            txtMaHD.Text = "";
+       
         }
 
         private void grBCTHoaDon_Enter(object sender, EventArgs e)
@@ -125,27 +126,17 @@ namespace GUI_QuanLi
 
         }
 
-        private void bttThanhToan_Click(object sender, EventArgs e)
-        {
-        }
-
-        private void txtThanhToan_TextChanged(object sender, EventArgs e)
-        {
-
-        }
         private void dtHDHang_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
 
         }
-
-        private void button1_Click_1(object sender, EventArgs e)
+        private void bttHD_Click(object sender, EventArgs e)
         {
-
+            dtgrHDH.DataSource = hd.ThongTinXem();
         }
     }
 }

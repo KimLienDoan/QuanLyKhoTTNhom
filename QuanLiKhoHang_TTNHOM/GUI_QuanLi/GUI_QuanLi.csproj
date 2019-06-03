@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=11.2.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.DirectoryServices" />
@@ -52,6 +53,12 @@
     </Compile>
     <Compile Include="GUI_DangNhap.Designer.cs">
       <DependentUpon>GUI_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_formChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_formChinh.Designer.cs">
+      <DependentUpon>GUI_formChinh.cs</DependentUpon>
     </Compile>
     <Compile Include="GUI_frmChinh.cs">
       <SubType>Form</SubType>
@@ -95,11 +102,11 @@
     <Compile Include="GUI_KhachHang.Designer.cs">
       <DependentUpon>GUI_KhachHang.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI_ShowHDH.cs">
+    <Compile Include="GUI_ThongKe.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI_ShowHDH.Designer.cs">
-      <DependentUpon>GUI_ShowHDH.cs</DependentUpon>
+    <Compile Include="GUI_ThongKe.Designer.cs">
+      <DependentUpon>GUI_ThongKe.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -115,6 +122,9 @@
     </Compile>
     <EmbeddedResource Include="GUI_DangNhap.resx">
       <DependentUpon>GUI_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_formChinh.resx">
+      <DependentUpon>GUI_formChinh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI_frmChinh.resx">
       <DependentUpon>GUI_frmChinh.cs</DependentUpon>
@@ -137,8 +147,8 @@
     <EmbeddedResource Include="GUI_KhachHang.resx">
       <DependentUpon>GUI_KhachHang.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI_ShowHDH.resx">
-      <DependentUpon>GUI_ShowHDH.cs</DependentUpon>
+    <EmbeddedResource Include="GUI_ThongKe.resx">
+      <DependentUpon>GUI_ThongKe.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

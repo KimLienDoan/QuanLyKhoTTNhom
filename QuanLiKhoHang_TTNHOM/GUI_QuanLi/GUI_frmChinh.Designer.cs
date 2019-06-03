@@ -35,13 +35,14 @@
             this.bttHDN = new System.Windows.Forms.Button();
             this.bttNCC = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.ThongKeHang = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // bttNhanVien
             // 
             this.bttNhanVien.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.bttNhanVien.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttNhanVien.Location = new System.Drawing.Point(81, 26);
+            this.bttNhanVien.Location = new System.Drawing.Point(668, 154);
             this.bttNhanVien.Name = "bttNhanVien";
             this.bttNhanVien.Size = new System.Drawing.Size(112, 81);
             this.bttNhanVien.TabIndex = 1;
@@ -53,7 +54,7 @@
             // 
             this.bttKhachHang.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.bttKhachHang.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttKhachHang.Location = new System.Drawing.Point(81, 151);
+            this.bttKhachHang.Location = new System.Drawing.Point(386, 180);
             this.bttKhachHang.Name = "bttKhachHang";
             this.bttKhachHang.Size = new System.Drawing.Size(112, 81);
             this.bttKhachHang.TabIndex = 2;
@@ -77,7 +78,7 @@
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(591, 26);
+            this.button1.Location = new System.Drawing.Point(242, 286);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(112, 81);
             this.button1.TabIndex = 4;
@@ -89,7 +90,7 @@
             // 
             this.bttHDN.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.bttHDN.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttHDN.Location = new System.Drawing.Point(591, 167);
+            this.bttHDN.Location = new System.Drawing.Point(435, 286);
             this.bttHDN.Name = "bttHDN";
             this.bttHDN.Size = new System.Drawing.Size(112, 81);
             this.bttHDN.TabIndex = 5;
@@ -113,18 +114,30 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(240, 69);
+            this.label1.Location = new System.Drawing.Point(265, 129);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(293, 24);
             this.label1.TabIndex = 7;
             this.label1.Text = "QUẢN LÍ KHO HÀNG ĐIỆN TỬ";
             // 
+            // ThongKeHang
+            // 
+            this.ThongKeHang.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.ThongKeHang.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ThongKeHang.Location = new System.Drawing.Point(525, 144);
+            this.ThongKeHang.Name = "ThongKeHang";
+            this.ThongKeHang.Size = new System.Drawing.Size(112, 81);
+            this.ThongKeHang.TabIndex = 8;
+            this.ThongKeHang.Text = "Thống Kê Hàng";
+            this.ThongKeHang.UseVisualStyleBackColor = false;
+            // 
             // GUI_frmChinh
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Silver;
+            this.BackColor = System.Drawing.Color.Gainsboro;
             this.ClientSize = new System.Drawing.Size(806, 406);
+            this.Controls.Add(this.ThongKeHang);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.bttNCC);
             this.Controls.Add(this.bttHDN);
@@ -147,5 +160,6 @@
         private System.Windows.Forms.Button bttHDN;
         private System.Windows.Forms.Button bttNCC;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button ThongKeHang;
     }
 }

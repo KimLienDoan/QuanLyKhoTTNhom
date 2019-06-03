@@ -30,7 +30,11 @@ namespace BUS_QuanLy
         }
         public DataTable ThongTinXem()
         {
-            return ThongTinXem();
+            return dal_BH.ThongTinXem();
+        }
+        public DataTable ThongTinXem1HD( int id)
+        {
+            return dal_BH.ThongTinXem1HD(id);
         }
 
     }

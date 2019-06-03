@@ -35,7 +35,14 @@ namespace DAL_QuanLy
         }
         public DataTable ThongTinXem()
         {
-            DataTable dt = DataProvider.Instance.ExecuteQuery("select *from HoaDonBanHang hd, ChiTietHoaDonBanHang ct where hd.maHoaDon = ct.maHoaDon");
+            DataTable dt = DataProvider.Instance.ExecuteQuery("SELECT  dbo.HoaDonBanHang.maHoaDon AS [Mã Hóa Đơn], dbo.HoaDonBanHang.tongTien AS [Tổng Tiền], dbo.NhanVien.tenNV AS [Nhân Viên], dbo.KhachHang.hoTen AS [Khách Hàng],   dbo.HoaDonBanHang.ngayThang AS[Ngày Tháng] FROM   dbo.ChiTietHoaDonBanHang INNER JOIN " +
+                        " dbo.HoaDonBanHang ON dbo.ChiTietHoaDonBanHang.maHoaDon = dbo.HoaDonBanHang.maHoaDon INNER JOIN  dbo.KhachHang ON dbo.HoaDonBanHang.maKhachHang = dbo.KhachHang.maKhachHang INNER JOIN " +
+                      "   dbo.NhanVien ON dbo.HoaDonBanHang.maNV = dbo.NhanVien.maNV group by   dbo.HoaDonBanHang.maHoaDon, dbo.HoaDonBanHang.tongTien, dbo.NhanVien.tenNV, dbo.KhachHang.hoTen, dbo.HoaDonBanHang.ngayThang ");
+            return dt;
+        }
+        public DataTable ThongTinXem1HD( int MaHD)
+        {
+            DataTable dt = DataProvider.Instance.ExecuteQuery(" ThongTin1HD @MaHD ", new object[] { MaHD });
             return dt;
         }
 

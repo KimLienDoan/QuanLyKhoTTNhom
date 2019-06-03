@@ -36,8 +36,8 @@
             this.bttThongTin = new System.Windows.Forms.Button();
             this.bttThem = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
-            this.bttThoat = new System.Windows.Forms.Button();
             this.txtThanhToan = new System.Windows.Forms.TextBox();
+            this.bttThoat = new System.Windows.Forms.Button();
             this.grBCTHoaDon = new System.Windows.Forms.GroupBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.combMaNV = new System.Windows.Forms.ComboBox();
@@ -65,7 +65,9 @@
             this.txtsoLuong1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.txtgiaBanRa = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.txtthanhTien = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.button1 = new System.Windows.Forms.Button();
+            this.TTHD = new System.Windows.Forms.GroupBox();
+            this.dtgrHDH = new System.Windows.Forms.DataGridView();
+            this.bttHD = new System.Windows.Forms.Button();
             this.panel2.SuspendLayout();
             this.grBCTHoaDon.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.hangHoaBindingSource)).BeginInit();
@@ -76,6 +78,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.loaiHangBindingSource)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dtHDHang)).BeginInit();
+            this.TTHD.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgrHDH)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -92,25 +96,23 @@
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.White;
-            this.panel2.Controls.Add(this.button1);
+            this.panel2.BackColor = System.Drawing.SystemColors.ControlDark;
             this.panel2.Controls.Add(this.bttThongTin);
             this.panel2.Controls.Add(this.bttThem);
             this.panel2.Controls.Add(this.label3);
-            this.panel2.Controls.Add(this.bttThoat);
             this.panel2.Controls.Add(this.txtThanhToan);
-            this.panel2.Location = new System.Drawing.Point(12, 479);
+            this.panel2.Location = new System.Drawing.Point(373, 357);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(887, 60);
+            this.panel2.Size = new System.Drawing.Size(647, 60);
             this.panel2.TabIndex = 82;
             // 
             // bttThongTin
             // 
-            this.bttThongTin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.bttThongTin.BackColor = System.Drawing.Color.Silver;
             this.bttThongTin.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttThongTin.Location = new System.Drawing.Point(496, 13);
+            this.bttThongTin.Location = new System.Drawing.Point(412, 7);
             this.bttThongTin.Name = "bttThongTin";
-            this.bttThongTin.Size = new System.Drawing.Size(101, 36);
+            this.bttThongTin.Size = new System.Drawing.Size(98, 50);
             this.bttThongTin.TabIndex = 123;
             this.bttThongTin.Text = "Thông Tin";
             this.bttThongTin.UseVisualStyleBackColor = false;
@@ -118,11 +120,11 @@
             // 
             // bttThem
             // 
-            this.bttThem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.bttThem.BackColor = System.Drawing.Color.Silver;
             this.bttThem.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttThem.Location = new System.Drawing.Point(625, 11);
+            this.bttThem.Location = new System.Drawing.Point(516, 7);
             this.bttThem.Name = "bttThem";
-            this.bttThem.Size = new System.Drawing.Size(102, 38);
+            this.bttThem.Size = new System.Drawing.Size(94, 50);
             this.bttThem.TabIndex = 122;
             this.bttThem.Text = "Thêm";
             this.bttThem.UseVisualStyleBackColor = false;
@@ -138,30 +140,29 @@
             this.label3.TabIndex = 90;
             this.label3.Text = "Tổng Tiền";
             // 
+            // txtThanhToan
+            // 
+            this.txtThanhToan.Location = new System.Drawing.Point(133, 10);
+            this.txtThanhToan.Multiline = true;
+            this.txtThanhToan.Name = "txtThanhToan";
+            this.txtThanhToan.Size = new System.Drawing.Size(147, 43);
+            this.txtThanhToan.TabIndex = 87;
+            // 
             // bttThoat
             // 
-            this.bttThoat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.bttThoat.BackColor = System.Drawing.Color.Silver;
             this.bttThoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttThoat.Location = new System.Drawing.Point(771, 13);
+            this.bttThoat.Location = new System.Drawing.Point(889, 602);
             this.bttThoat.Name = "bttThoat";
-            this.bttThoat.Size = new System.Drawing.Size(78, 36);
+            this.bttThoat.Size = new System.Drawing.Size(78, 68);
             this.bttThoat.TabIndex = 88;
             this.bttThoat.Text = "Thoát";
             this.bttThoat.UseVisualStyleBackColor = false;
             this.bttThoat.Click += new System.EventHandler(this.bttLuu_Click);
             // 
-            // txtThanhToan
-            // 
-            this.txtThanhToan.Location = new System.Drawing.Point(170, 11);
-            this.txtThanhToan.Multiline = true;
-            this.txtThanhToan.Name = "txtThanhToan";
-            this.txtThanhToan.Size = new System.Drawing.Size(147, 43);
-            this.txtThanhToan.TabIndex = 87;
-            this.txtThanhToan.TextChanged += new System.EventHandler(this.txtThanhToan_TextChanged);
-            // 
             // grBCTHoaDon
             // 
-            this.grBCTHoaDon.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.grBCTHoaDon.BackColor = System.Drawing.SystemColors.ControlDark;
             this.grBCTHoaDon.Controls.Add(this.groupBox1);
             this.grBCTHoaDon.Controls.Add(this.combMaNV);
             this.grBCTHoaDon.Controls.Add(this.label5);
@@ -174,9 +175,9 @@
             this.grBCTHoaDon.Controls.Add(this.label2);
             this.grBCTHoaDon.Controls.Add(this.MaNV);
             this.grBCTHoaDon.ForeColor = System.Drawing.Color.Black;
-            this.grBCTHoaDon.Location = new System.Drawing.Point(12, 47);
+            this.grBCTHoaDon.Location = new System.Drawing.Point(4, 101);
             this.grBCTHoaDon.Name = "grBCTHoaDon";
-            this.grBCTHoaDon.Size = new System.Drawing.Size(896, 131);
+            this.grBCTHoaDon.Size = new System.Drawing.Size(363, 313);
             this.grBCTHoaDon.TabIndex = 79;
             this.grBCTHoaDon.TabStop = false;
             this.grBCTHoaDon.Text = "Chi Tiết Hóa Đơn";
@@ -197,7 +198,7 @@
             this.combMaNV.DataSource = this.hangHoaBindingSource;
             this.combMaNV.DisplayMember = "tenHangHoa";
             this.combMaNV.FormattingEnabled = true;
-            this.combMaNV.Location = new System.Drawing.Point(112, 69);
+            this.combMaNV.Location = new System.Drawing.Point(112, 97);
             this.combMaNV.Name = "combMaNV";
             this.combMaNV.Size = new System.Drawing.Size(180, 21);
             this.combMaNV.TabIndex = 92;
@@ -227,7 +228,7 @@
             this.combKH.DataSource = this.khachHangBindingSource;
             this.combKH.DisplayMember = "hoTen";
             this.combKH.FormattingEnabled = true;
-            this.combKH.Location = new System.Drawing.Point(635, 14);
+            this.combKH.Location = new System.Drawing.Point(112, 148);
             this.combKH.Name = "combKH";
             this.combKH.Size = new System.Drawing.Size(180, 21);
             this.combKH.TabIndex = 91;
@@ -246,7 +247,7 @@
             // lbquequan
             // 
             this.lbquequan.AutoSize = true;
-            this.lbquequan.Location = new System.Drawing.Point(5, 69);
+            this.lbquequan.Location = new System.Drawing.Point(21, 105);
             this.lbquequan.Name = "lbquequan";
             this.lbquequan.Size = new System.Drawing.Size(57, 13);
             this.lbquequan.TabIndex = 83;
@@ -255,14 +256,14 @@
             // dateTimeNgayBan
             // 
             this.dateTimeNgayBan.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimeNgayBan.Location = new System.Drawing.Point(635, 63);
+            this.dateTimeNgayBan.Location = new System.Drawing.Point(112, 203);
             this.dateTimeNgayBan.Name = "dateTimeNgayBan";
             this.dateTimeNgayBan.Size = new System.Drawing.Size(180, 20);
             this.dateTimeNgayBan.TabIndex = 90;
             // 
             // txtMaHD
             // 
-            this.txtMaHD.Location = new System.Drawing.Point(112, 27);
+            this.txtMaHD.Location = new System.Drawing.Point(112, 39);
             this.txtMaHD.Multiline = true;
             this.txtMaHD.Name = "txtMaHD";
             this.txtMaHD.Size = new System.Drawing.Size(180, 20);
@@ -272,7 +273,7 @@
             // 
             this.lbMaKH.AutoSize = true;
             this.lbMaKH.ForeColor = System.Drawing.Color.Black;
-            this.lbMaKH.Location = new System.Drawing.Point(493, 22);
+            this.lbMaKH.Location = new System.Drawing.Point(14, 156);
             this.lbMaKH.Name = "lbMaKH";
             this.lbMaKH.Size = new System.Drawing.Size(64, 13);
             this.lbMaKH.TabIndex = 84;
@@ -281,7 +282,7 @@
             // lbNgaysinh
             // 
             this.lbNgaysinh.AutoSize = true;
-            this.lbNgaysinh.Location = new System.Drawing.Point(493, 69);
+            this.lbNgaysinh.Location = new System.Drawing.Point(14, 210);
             this.lbNgaysinh.Name = "lbNgaysinh";
             this.lbNgaysinh.Size = new System.Drawing.Size(54, 13);
             this.lbNgaysinh.TabIndex = 82;
@@ -290,7 +291,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(6, 30);
+            this.label2.Location = new System.Drawing.Point(14, 46);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(68, 13);
             this.label2.TabIndex = 80;
@@ -329,14 +330,14 @@
             // panel1
             // 
             this.panel1.Controls.Add(this.dtHDHang);
-            this.panel1.Location = new System.Drawing.Point(12, 208);
+            this.panel1.Location = new System.Drawing.Point(373, 101);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(887, 265);
+            this.panel1.Size = new System.Drawing.Size(647, 250);
             this.panel1.TabIndex = 81;
             // 
             // dtHDHang
             // 
-            this.dtHDHang.BackgroundColor = System.Drawing.SystemColors.InactiveCaption;
+            this.dtHDHang.BackgroundColor = System.Drawing.SystemColors.ControlDark;
             this.dtHDHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dtHDHang.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.cmboMa,
@@ -346,7 +347,7 @@
             this.dtHDHang.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dtHDHang.Location = new System.Drawing.Point(0, 0);
             this.dtHDHang.Name = "dtHDHang";
-            this.dtHDHang.Size = new System.Drawing.Size(887, 265);
+            this.dtHDHang.Size = new System.Drawing.Size(647, 250);
             this.dtHDHang.TabIndex = 0;
             this.dtHDHang.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtCTHH_CellCLlick);
             this.dtHDHang.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtHDHang_CellContentClick);
@@ -389,26 +390,51 @@
             this.txtthanhTien.Name = "txtthanhTien";
             this.txtthanhTien.ReadOnly = true;
             // 
-            // button1
+            // TTHD
             // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(372, 10);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(101, 36);
-            this.button1.TabIndex = 124;
-            this.button1.Text = "In Thông Tin";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            this.TTHD.Controls.Add(this.dtgrHDH);
+            this.TTHD.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TTHD.Location = new System.Drawing.Point(4, 434);
+            this.TTHD.Name = "TTHD";
+            this.TTHD.Size = new System.Drawing.Size(841, 313);
+            this.TTHD.TabIndex = 89;
+            this.TTHD.TabStop = false;
+            this.TTHD.Text = "Thông Tin Hóa Đơn";
+            // 
+            // dtgrHDH
+            // 
+            this.dtgrHDH.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.dtgrHDH.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgrHDH.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dtgrHDH.GridColor = System.Drawing.SystemColors.AppWorkspace;
+            this.dtgrHDH.Location = new System.Drawing.Point(3, 25);
+            this.dtgrHDH.Name = "dtgrHDH";
+            this.dtgrHDH.Size = new System.Drawing.Size(835, 285);
+            this.dtgrHDH.TabIndex = 0;
+            // 
+            // bttHD
+            // 
+            this.bttHD.BackColor = System.Drawing.Color.Silver;
+            this.bttHD.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bttHD.Location = new System.Drawing.Point(889, 459);
+            this.bttHD.Name = "bttHD";
+            this.bttHD.Size = new System.Drawing.Size(78, 68);
+            this.bttHD.TabIndex = 90;
+            this.bttHD.Text = "Danh Sách";
+            this.bttHD.UseVisualStyleBackColor = false;
+            this.bttHD.Click += new System.EventHandler(this.bttHD_Click);
             // 
             // GUI_HoaDonBan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.ClientSize = new System.Drawing.Size(912, 551);
+            this.ClientSize = new System.Drawing.Size(1027, 749);
+            this.Controls.Add(this.bttHD);
+            this.Controls.Add(this.TTHD);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.Controls.Add(this.bttThoat);
             this.Controls.Add(this.grBCTHoaDon);
             this.Controls.Add(this.label1);
             this.Name = "GUI_HoaDonBan";
@@ -425,6 +451,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.loaiHangBindingSource)).EndInit();
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dtHDHang)).EndInit();
+            this.TTHD.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dtgrHDH)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -465,6 +493,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn txtthanhTien;
         private System.Windows.Forms.Button bttThongTin;
         private System.Windows.Forms.Button bttThem;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.GroupBox TTHD;
+        private System.Windows.Forms.DataGridView dtgrHDH;
+        private System.Windows.Forms.Button bttHD;
     }
 }

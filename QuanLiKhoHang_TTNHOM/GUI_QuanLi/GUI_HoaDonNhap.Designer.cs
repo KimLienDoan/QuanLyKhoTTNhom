@@ -388,7 +388,6 @@
             this.Controls.Add(this.grBCTHoaDon);
             this.Name = "GUI_HoaDonNhap";
             this.Text = "GUI_HoaDonNhap";
-    //        this.Load += new System.EventHandler(this.GUI_HoaDonNhap_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtHDHang)).EndInit();
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.loaiHangBindingSource)).EndInit();
