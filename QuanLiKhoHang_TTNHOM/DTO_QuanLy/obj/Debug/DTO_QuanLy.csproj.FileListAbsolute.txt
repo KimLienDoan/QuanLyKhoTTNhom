@@ -8,3 +8,9 @@ D:\respos\QuanLiKhoHang_TTNHOM\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
 D:\respos\QuanLiKhoHang_TTNHOM\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
 D:\respos\QuanLiKhoHang_TTNHOM\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
 D:\respos\QuanLiKhoHang_TTNHOM\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DTO_QuanLy\obj\Debug\DTO_QuanLy.csprojAssemblyReference.cache
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb

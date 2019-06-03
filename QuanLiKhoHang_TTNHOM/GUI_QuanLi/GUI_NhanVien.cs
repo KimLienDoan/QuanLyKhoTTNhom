@@ -167,5 +167,95 @@ namespace GUI_QuanLi
         {
 
         }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void combMaKho_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbmaKhoHang_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dateTimeNgaysinh_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtSDT_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtQueQuan_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtGtinh_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtTenNV_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtMaNV_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SDT_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbquequan_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbNgaysinh_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbgioitinh_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TenNV_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void IbIDNhanVien_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MaNV_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

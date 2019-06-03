@@ -47,6 +47,7 @@
     <Compile Include="DAL_HoaDonBan.cs" />
     <Compile Include="DAL_HoaDonNhap.cs" />
     <Compile Include="DAL_KhachHang.cs" />
+    <Compile Include="DAL_NhaCungCap.cs" />
     <Compile Include="DAL_NhanVien.cs" />
     <Compile Include="DataProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

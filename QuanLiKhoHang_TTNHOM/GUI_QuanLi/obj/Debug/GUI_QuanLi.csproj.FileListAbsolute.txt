@@ -74,3 +74,30 @@ C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_Quan
 C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DAL_QuanLy.pdb
 C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DTO_QuanLy.pdb
 C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csproj.CopyComplete
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\GUI_QuanLi.exe.config
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\GUI_QuanLi.exe
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\GUI_QuanLi.pdb
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\BUS_QuanLy.dll
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DAL_QuanLy.dll
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DTO_QuanLy.dll
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\BUS_QuanLy.pdb
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\BUS_QuanLy.dll.config
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csprojAssemblyReference.cache
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_DangNhap.resources
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_frmChinh.resources
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HangHoa.resources
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HDNtinhTien.resources
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HoaDonBan.resources
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_HoaDonNhap.resources
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_NhanVien.resources
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_KhachHang.resources
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.GUI_ShowHDH.resources
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.Properties.Resources.resources
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csproj.GenerateResource.cache
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csproj.CoreCompileInputs.cache
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.csproj.CopyComplete
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.exe
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.pdb
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\GUI_QuanLi\obj\Debug\GUI_QuanLi.NhaCungCap.resources

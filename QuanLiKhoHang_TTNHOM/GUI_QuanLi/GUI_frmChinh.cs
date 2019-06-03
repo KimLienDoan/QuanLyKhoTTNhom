@@ -62,8 +62,8 @@ namespace GUI_QuanLi
 
         private void bttNCC_Click(object sender, EventArgs e)
         {
-            //GUI frmNV = new GUI_HoaDonNhap();
-            //frmNV.ShowDialog();
+            NhaCungCap frmNcc = new NhaCungCap();
+            frmNcc.ShowDialog();
         }
     }
 }

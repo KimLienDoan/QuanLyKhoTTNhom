@@ -87,6 +87,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(963, 454);
             this.panel1.TabIndex = 54;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // button1
             // 
@@ -121,6 +122,7 @@
             this.groupBox2.TabIndex = 109;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Chi Tiết Nhân Viên";
+            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
             // dtGrid_NhanVien
             // 
@@ -160,6 +162,7 @@
             this.groupBox1.TabIndex = 108;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông Tin Nhân Viên";
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // combMaKho
             // 
@@ -168,6 +171,7 @@
             this.combMaKho.Name = "combMaKho";
             this.combMaKho.Size = new System.Drawing.Size(166, 21);
             this.combMaKho.TabIndex = 88;
+            this.combMaKho.SelectedIndexChanged += new System.EventHandler(this.combMaKho_SelectedIndexChanged);
             // 
             // lbmaKhoHang
             // 
@@ -177,6 +181,7 @@
             this.lbmaKhoHang.Size = new System.Drawing.Size(73, 13);
             this.lbmaKhoHang.TabIndex = 87;
             this.lbmaKhoHang.Text = "Mã Kho Hàng";
+            this.lbmaKhoHang.Click += new System.EventHandler(this.lbmaKhoHang_Click);
             // 
             // dateTimeNgaysinh
             // 
@@ -184,6 +189,7 @@
             this.dateTimeNgaysinh.Name = "dateTimeNgaysinh";
             this.dateTimeNgaysinh.Size = new System.Drawing.Size(198, 20);
             this.dateTimeNgaysinh.TabIndex = 86;
+            this.dateTimeNgaysinh.ValueChanged += new System.EventHandler(this.dateTimeNgaysinh_ValueChanged);
             // 
             // txtSDT
             // 
@@ -191,6 +197,7 @@
             this.txtSDT.Name = "txtSDT";
             this.txtSDT.Size = new System.Drawing.Size(166, 20);
             this.txtSDT.TabIndex = 85;
+            this.txtSDT.TextChanged += new System.EventHandler(this.txtSDT_TextChanged);
             this.txtSDT.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSDT_KeyPress_1);
             // 
             // txtQueQuan
@@ -199,6 +206,7 @@
             this.txtQueQuan.Name = "txtQueQuan";
             this.txtQueQuan.Size = new System.Drawing.Size(198, 20);
             this.txtQueQuan.TabIndex = 84;
+            this.txtQueQuan.TextChanged += new System.EventHandler(this.txtQueQuan_TextChanged);
             // 
             // txtGtinh
             // 
@@ -206,6 +214,7 @@
             this.txtGtinh.Name = "txtGtinh";
             this.txtGtinh.Size = new System.Drawing.Size(145, 20);
             this.txtGtinh.TabIndex = 83;
+            this.txtGtinh.TextChanged += new System.EventHandler(this.txtGtinh_TextChanged);
             // 
             // txtTenNV
             // 
@@ -213,6 +222,7 @@
             this.txtTenNV.Name = "txtTenNV";
             this.txtTenNV.Size = new System.Drawing.Size(145, 20);
             this.txtTenNV.TabIndex = 82;
+            this.txtTenNV.TextChanged += new System.EventHandler(this.txtTenNV_TextChanged);
             this.txtTenNV.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtTenNV_KeyPress_1);
             // 
             // txtMaNV
@@ -221,6 +231,7 @@
             this.txtMaNV.Name = "txtMaNV";
             this.txtMaNV.Size = new System.Drawing.Size(145, 20);
             this.txtMaNV.TabIndex = 81;
+            this.txtMaNV.TextChanged += new System.EventHandler(this.txtMaNV_TextChanged);
             this.txtMaNV.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtMaNV_KeyPress_1);
             // 
             // SDT
@@ -231,6 +242,7 @@
             this.SDT.Size = new System.Drawing.Size(29, 13);
             this.SDT.TabIndex = 80;
             this.SDT.Text = "SĐT";
+            this.SDT.Click += new System.EventHandler(this.SDT_Click);
             // 
             // lbquequan
             // 
@@ -240,6 +252,7 @@
             this.lbquequan.Size = new System.Drawing.Size(56, 13);
             this.lbquequan.TabIndex = 79;
             this.lbquequan.Text = "Quê Quán";
+            this.lbquequan.Click += new System.EventHandler(this.lbquequan_Click);
             // 
             // lbNgaysinh
             // 
@@ -249,6 +262,7 @@
             this.lbNgaysinh.Size = new System.Drawing.Size(56, 13);
             this.lbNgaysinh.TabIndex = 78;
             this.lbNgaysinh.Text = "Ngày Sinh";
+            this.lbNgaysinh.Click += new System.EventHandler(this.lbNgaysinh_Click);
             // 
             // lbgioitinh
             // 
@@ -258,6 +272,7 @@
             this.lbgioitinh.Size = new System.Drawing.Size(51, 13);
             this.lbgioitinh.TabIndex = 77;
             this.lbgioitinh.Text = "Giới Tính";
+            this.lbgioitinh.Click += new System.EventHandler(this.lbgioitinh_Click);
             // 
             // TenNV
             // 
@@ -267,6 +282,7 @@
             this.TenNV.Size = new System.Drawing.Size(79, 13);
             this.TenNV.TabIndex = 76;
             this.TenNV.Text = "Tên Nhân Viên";
+            this.TenNV.Click += new System.EventHandler(this.TenNV_Click);
             // 
             // IbIDNhanVien
             // 
@@ -276,6 +292,7 @@
             this.IbIDNhanVien.Size = new System.Drawing.Size(75, 13);
             this.IbIDNhanVien.TabIndex = 75;
             this.IbIDNhanVien.Text = "Mã Nhân Viên";
+            this.IbIDNhanVien.Click += new System.EventHandler(this.IbIDNhanVien_Click);
             // 
             // MaNV
             // 
@@ -284,6 +301,7 @@
             this.MaNV.Name = "MaNV";
             this.MaNV.Size = new System.Drawing.Size(0, 13);
             this.MaNV.TabIndex = 74;
+            this.MaNV.Click += new System.EventHandler(this.MaNV_Click);
             // 
             // txbTK
             // 

@@ -34,3 +34,15 @@ C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_Quan
 C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
 C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
 C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll.config
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+C:\Users\Kim Anh\Downloads\KimAnh_QLHSGV\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb

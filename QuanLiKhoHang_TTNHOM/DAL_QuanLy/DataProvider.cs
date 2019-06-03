@@ -20,7 +20,7 @@ namespace DAL_QuanLy
 
         public DataProvider() { }
 
-        public string connectionSTR = @"Data Source=DESKTOP-52RAFDJ\SQLEXPRESS;Initial Catalog=QUAN_LY_KHO;Integrated Security=True";
+        public string connectionSTR = @"Data Source=DESKTOP-M2KIF2A\KIM;Initial Catalog=QUAN_LY_KHO;Integrated Security=True";
 
         public DataTable ExecuteQuery(string query, object[] parameter = null)
         {
