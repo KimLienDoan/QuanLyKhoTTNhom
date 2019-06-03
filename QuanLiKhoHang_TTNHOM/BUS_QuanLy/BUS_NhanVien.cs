@@ -32,5 +32,9 @@ namespace BUS_QuanLy
         {
             return DalNhanVien.TTNhanVien();
         }
+        public DataTable Timkiem(string TenNv)
+        {
+            return DalNhanVien.Timkiem(TenNv);
+        }
     }
 }

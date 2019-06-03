@@ -140,5 +140,11 @@ namespace GUI_QuanLi
                 txtSDT.Text = dtGrid_KhachHang.Rows[index].Cells[5].Value.ToString();
             }
         }
+
+        private void txbTKKH_TextChanged(object sender, EventArgs e)
+        {
+            string tk = txbTKKH.Text;
+            dtGrid_KhachHang.DataSource = BusKH.TimKiem(tk);
+        }
     }
 }

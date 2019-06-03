@@ -50,7 +50,7 @@
             this.TenNV = new System.Windows.Forms.Label();
             this.IbIDNhanVien = new System.Windows.Forms.Label();
             this.MaNV = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txbTK = new System.Windows.Forms.TextBox();
             this.btXoa = new System.Windows.Forms.Button();
             this.bttSua = new System.Windows.Forms.Button();
             this.btthem = new System.Windows.Forms.Button();
@@ -79,7 +79,7 @@
             this.panel1.Controls.Add(this.btExit);
             this.panel1.Controls.Add(this.groupBox2);
             this.panel1.Controls.Add(this.groupBox1);
-            this.panel1.Controls.Add(this.textBox1);
+            this.panel1.Controls.Add(this.txbTK);
             this.panel1.Controls.Add(this.btXoa);
             this.panel1.Controls.Add(this.bttSua);
             this.panel1.Controls.Add(this.btthem);
@@ -285,13 +285,13 @@
             this.MaNV.Size = new System.Drawing.Size(0, 13);
             this.MaNV.TabIndex = 74;
             // 
-            // textBox1
+            // txbTK
             // 
-            this.textBox1.Location = new System.Drawing.Point(751, 181);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(192, 20);
-            this.textBox1.TabIndex = 107;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.txbTK.Location = new System.Drawing.Point(751, 181);
+            this.txbTK.Name = "txbTK";
+            this.txbTK.Size = new System.Drawing.Size(192, 20);
+            this.txbTK.TabIndex = 107;
+            this.txbTK.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // btXoa
             // 
@@ -373,7 +373,7 @@
         private System.Windows.Forms.Label TenNV;
         private System.Windows.Forms.Label IbIDNhanVien;
         private System.Windows.Forms.Label MaNV;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txbTK;
         private System.Windows.Forms.Button btXoa;
         private System.Windows.Forms.Button bttSua;
         private System.Windows.Forms.Button btthem;

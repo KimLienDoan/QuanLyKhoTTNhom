@@ -158,6 +158,8 @@ namespace GUI_QuanLi
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+            string TK = txbTK.Text;
+            dtGrid_NhanVien.DataSource = busNV.Timkiem(TK);
 
         }
 

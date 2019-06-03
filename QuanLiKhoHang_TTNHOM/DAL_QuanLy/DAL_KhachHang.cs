@@ -44,5 +44,11 @@ namespace DAL_QuanLy
             
            
         }
+        public DataTable TimKiem(string TenKH)
+        {
+            string query = "select * from KhachHang where hoTen like N'%"+TenKH+"%'";
+            DataTable dt = DataProvider.Instance.ExecuteQuery(query);
+            return dt;
+        }
     }
 }

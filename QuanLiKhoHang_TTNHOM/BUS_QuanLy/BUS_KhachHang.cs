@@ -28,6 +28,9 @@ namespace BUS_QuanLy
         {
              dal_KH.UpdateKhachHang(kh);
         }
-       
-    }
+        public DataTable TimKiem(string TenKH)
+        {
+            return dal_KH.TimKiem(TenKH);
+        }
+  }
 }

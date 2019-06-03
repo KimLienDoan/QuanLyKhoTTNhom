@@ -16,3 +16,12 @@ D:\respos\QuanLiKhoHang_TTNHOM\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompil
 D:\respos\QuanLiKhoHang_TTNHOM\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
 D:\respos\QuanLiKhoHang_TTNHOM\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
 D:\respos\QuanLiKhoHang_TTNHOM\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DAL_QuanLy\obj\Debug\DAL_QuanLy.csprojAssemblyReference.cache
+C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+C:\Users\Doan Thi Kim Lien\Desktop\QuanLyKhoTTNhom\QuanLiKhoHang_TTNHOM\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb

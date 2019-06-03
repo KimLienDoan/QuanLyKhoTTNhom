@@ -48,7 +48,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.MaNV = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txbTKKH = new System.Windows.Forms.TextBox();
             this.btExit = new System.Windows.Forms.Button();
             this.btXoa = new System.Windows.Forms.Button();
             this.bttSua = new System.Windows.Forms.Button();
@@ -83,7 +83,7 @@
             this.panel1.Controls.Add(this.label8);
             this.panel1.Controls.Add(this.groupBox2);
             this.panel1.Controls.Add(this.groupBox1);
-            this.panel1.Controls.Add(this.textBox1);
+            this.panel1.Controls.Add(this.txbTKKH);
             this.panel1.Controls.Add(this.btExit);
             this.panel1.Controls.Add(this.btXoa);
             this.panel1.Controls.Add(this.bttSua);
@@ -257,12 +257,13 @@
             this.MaNV.Size = new System.Drawing.Size(0, 13);
             this.MaNV.TabIndex = 53;
             // 
-            // textBox1
+            // txbTKKH
             // 
-            this.textBox1.Location = new System.Drawing.Point(831, 176);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(192, 20);
-            this.textBox1.TabIndex = 85;
+            this.txbTKKH.Location = new System.Drawing.Point(831, 176);
+            this.txbTKKH.Name = "txbTKKH";
+            this.txbTKKH.Size = new System.Drawing.Size(192, 20);
+            this.txbTKKH.TabIndex = 85;
+            this.txbTKKH.TextChanged += new System.EventHandler(this.txbTKKH_TextChanged);
             // 
             // btExit
             // 
@@ -354,7 +355,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label MaNV;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txbTKKH;
         private System.Windows.Forms.Button btExit;
         private System.Windows.Forms.Button btXoa;
         private System.Windows.Forms.Button bttSua;

@@ -43,5 +43,12 @@ namespace DAL_QuanLy
             DataTable dt = DataProvider.Instance.ExecuteQuery("Select maNV, tenNV from NhanVien");
             return dt;
         }
+        public DataTable Timkiem(string  TenNv)
+        {
+            string query = "select *from NhanVien where TenNV like '%" + TenNv + "%'";
+
+            DataTable dt = DataProvider.Instance.ExecuteQuery(query);
+            return dt;
+        }
     }
 }
