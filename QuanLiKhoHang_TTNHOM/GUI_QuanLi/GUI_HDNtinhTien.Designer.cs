@@ -105,6 +105,7 @@
             // 
             // dtHDHang
             // 
+            this.dtHDHang.BackgroundColor = System.Drawing.SystemColors.ActiveCaption;
             this.dtHDHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dtHDHang.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.cmboMa,
