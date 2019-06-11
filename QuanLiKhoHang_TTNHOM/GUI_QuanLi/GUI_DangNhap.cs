@@ -29,8 +29,7 @@ namespace GUI_QuanLi
         {
             BUS_NhanVien nv = new BUS_NhanVien();
             DataTable dataTable = nv.GetNhanVien();
-            for(int i=0;i < dataTable.Rows.Count; i++)
-            {
+       
                 if (txtTaiKhoan.Text!= Int32.Parse(dataTable.Rows[i]["Mã Nhân Viên"].ToString()).ToString() && txtMatKhau.Text!= dataTable.Rows[i]["Mật Khẩu"].ToString())
                 {
                     MessageBox.Show(" Yêu Cầu Nhập Lại!");
@@ -41,10 +40,6 @@ namespace GUI_QuanLi
                     GUI_frmChinh frm = new GUI_frmChinh();
                     frm.ShowDialog();
                 }
-
-                
-            }
-            this.Close();
 
         }
 

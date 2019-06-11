@@ -88,7 +88,7 @@
             this.label1.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Maroon;
-            this.label1.Location = new System.Drawing.Point(393, 11);
+            this.label1.Location = new System.Drawing.Point(399, 6);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(151, 25);
             this.label1.TabIndex = 53;
@@ -101,7 +101,7 @@
             this.panel2.Controls.Add(this.bttThem);
             this.panel2.Controls.Add(this.label3);
             this.panel2.Controls.Add(this.txtThanhToan);
-            this.panel2.Location = new System.Drawing.Point(373, 357);
+            this.panel2.Location = new System.Drawing.Point(381, 321);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(647, 60);
             this.panel2.TabIndex = 82;
@@ -152,7 +152,7 @@
             // 
             this.bttThoat.BackColor = System.Drawing.Color.Silver;
             this.bttThoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttThoat.Location = new System.Drawing.Point(889, 602);
+            this.bttThoat.Location = new System.Drawing.Point(897, 566);
             this.bttThoat.Name = "bttThoat";
             this.bttThoat.Size = new System.Drawing.Size(78, 68);
             this.bttThoat.TabIndex = 88;
@@ -175,7 +175,7 @@
             this.grBCTHoaDon.Controls.Add(this.label2);
             this.grBCTHoaDon.Controls.Add(this.MaNV);
             this.grBCTHoaDon.ForeColor = System.Drawing.Color.Black;
-            this.grBCTHoaDon.Location = new System.Drawing.Point(4, 101);
+            this.grBCTHoaDon.Location = new System.Drawing.Point(12, 65);
             this.grBCTHoaDon.Name = "grBCTHoaDon";
             this.grBCTHoaDon.Size = new System.Drawing.Size(363, 313);
             this.grBCTHoaDon.TabIndex = 79;
@@ -330,7 +330,7 @@
             // panel1
             // 
             this.panel1.Controls.Add(this.dtHDHang);
-            this.panel1.Location = new System.Drawing.Point(373, 101);
+            this.panel1.Location = new System.Drawing.Point(381, 65);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(647, 250);
             this.panel1.TabIndex = 81;
@@ -394,7 +394,7 @@
             // 
             this.TTHD.Controls.Add(this.dtgrHDH);
             this.TTHD.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TTHD.Location = new System.Drawing.Point(4, 434);
+            this.TTHD.Location = new System.Drawing.Point(12, 398);
             this.TTHD.Name = "TTHD";
             this.TTHD.Size = new System.Drawing.Size(841, 313);
             this.TTHD.TabIndex = 89;
@@ -416,7 +416,7 @@
             // 
             this.bttHD.BackColor = System.Drawing.Color.Silver;
             this.bttHD.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bttHD.Location = new System.Drawing.Point(889, 459);
+            this.bttHD.Location = new System.Drawing.Point(897, 423);
             this.bttHD.Name = "bttHD";
             this.bttHD.Size = new System.Drawing.Size(78, 68);
             this.bttHD.TabIndex = 90;
